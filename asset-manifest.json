@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/PaaniWalaAdminPanel/static/css/main.be39a579.css",
+    "main.js": "/PaaniWalaAdminPanel/static/js/main.00e32eaf.js",
+    "index.html": "/PaaniWalaAdminPanel/index.html",
+    "main.be39a579.css.map": "/PaaniWalaAdminPanel/static/css/main.be39a579.css.map",
+    "main.00e32eaf.js.map": "/PaaniWalaAdminPanel/static/js/main.00e32eaf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be39a579.css",
+    "static/js/main.00e32eaf.js"
+  ]
+}
